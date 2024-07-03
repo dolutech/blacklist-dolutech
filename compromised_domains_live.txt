@@ -1,4 +1,4 @@
-# Compromised domains (live list).
+# Compromised domains (live list). Downloaded from Zonefiles.io
 shopsabz.com
 theonlygoodman.com
 tienphongmientrung.com
@@ -18106,3 +18106,7 @@ monesam.com
 seburax.com
 yerifest.com
 andrebadi.top
+ghostghostcom.000webhostapp.com
+robsheraldry.com
+lascolinasresortdalas.com
+poseidon.cool
