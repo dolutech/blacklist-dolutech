@@ -1,25 +1,5 @@
 # Blacklist Dolutech Automatizada Linux (bdal.sh)
 
-![License](https://img.shields.io/github/license/yourusername/bdal.sh)
-![Version](https://img.shields.io/github/v/release/yourusername/bdal.sh)
-![Issues](https://img.shields.io/github/issues/yourusername/bdal.sh)
-
-## Table of Contents
-
-- [Introdução](#introdução)
-- [Recursos](#recursos)
-- [Requisitos](#requisitos)
-- [Instalação](#instalação)
-- [Uso](#uso)
-  - [Menu Interativo](#menu-interativo)
-  - [Opções do Menu](#opções-do-menu)
-- [Configuração do `nftables`](#configuração-do-nftables)
-- [Configuração do Cron](#configuração-do-cron)
-- [Personalização](#personalização)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
-- [Contato](#contato)
-
 ## Introdução
 
 **Blacklist Dolutech Automatizada Linux (bdal.sh)** é uma ferramenta em shell script que automatiza o gerenciamento de uma blacklist de endereços IP utilizando o `nftables`. O script baixa uma lista de bloqueio de uma fonte externa, atualiza-a periodicamente via `cron`, e permite a gestão manual da lista através de um menu interativo. Esta ferramenta é ideal para administradores de sistemas que desejam proteger seus servidores contra IPs maliciosos de forma automatizada e flexível.
