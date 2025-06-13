@@ -1,4 +1,4 @@
-# Atualizada por Dolutech.com #
+# Atualizada por Dolutech.com - Data 13/06/2025 #
 # BLACK LIST SEMANAL DE IP´s PRATICANDO ABUSO #
 192.9.247.99
 96.78.175.36
