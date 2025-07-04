@@ -1,4 +1,4 @@
-# Atualizada por Dolutech.com - Data 02/07/2025 #
+# Atualizada por Dolutech.com - Data 04/07/2025 #
 # BLACK LIST SEMANAL DE IP´s PRATICANDO ABUSO #
 41.111.234.130
 64.140.170.196
